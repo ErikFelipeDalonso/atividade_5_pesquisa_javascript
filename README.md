@@ -1,4 +1,4 @@
-## 01_Introdução
+# 01_Introdução
 
 # O que é JavaScript?
 JavaScript é uma linguagem de programação desenvolvida por Brendan Eich em 1995.
@@ -21,7 +21,7 @@ CSS estiliza essa estrutura — cores, fontes, espaçamento e layout. Sendo a ap
 JavaScript dá comportamento a tudo isso, é ele quem determina o que acontece quando o usuário interage com a página, como clicar em um botão, enviar um formulário ou atualizar um conteúdo dinamicamente. Como se fosse o cerebro e seus neurônios controlando a página web.
 Em resumo: HTML constrói, CSS estiliza, JavaScript faz funcionar.
 
-## 02_script_no_html
+# 02_script_no_html
 
 # como funciona;
 JavaScript funciona no HTML adicionando interatividade e comportamento dinâmico à estrutura estática do site, gatravés da tag <script>;
@@ -33,7 +33,7 @@ A melhor prática é usar arquivos externos (<script src="script.js"></script>) 
 # internos
 Também pode ser interno (dentro de tags <script> na página) ou inline (eventos como onclick). 
 
-## 03_variáveis_tipos_e_escopo
+# 03_variáveis_tipos_e_escopo
 
 # O que é uma variável;
 Uma variável é um espaço nomeado na memória do código que serve para armazenar valores para serem manipulados conforme necessário ao longo da programação. Esse valor pode ser um número, um texto, um objeto, uma lista, entre outros tipos.
