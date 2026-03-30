@@ -75,17 +75,17 @@ Verifique o exemplo na pasta 03_variáveis_tipos_e_escopo
 Operadores ariméticos padrões: +, -, *, /, %
 
 ## Operadores relacionais
-==  compara apenas o valor.
+| ==  compara apenas o valor.
 
-===  compara valor e tipo.
+| ===  compara valor e tipo.
 
-!=  verifica se os valores são diferentes..
+| !=  verifica se os valores são diferentes..
 
-!== verifica se valores ou tipos são diferentes.
+| !== verifica se valores ou tipos são diferentes.
 
-> maior que 
+| > maior que
 
-< menor que
+| < menor que
 
 ## Operadores lógicos
 && "E" lógico, só é verdadeiro se todas as condições forem verdadeiras.
