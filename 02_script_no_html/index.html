@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sem script imbutido</title>
+</head>
+<h1 id="titulo">Hello World!</h1>
+<button id="MeuBotao">Duvido clicar</button>
+<body>
+<script>  //Esse comando  permite o js se integrar o js no html sem um script extra
+    const botao = document.getElementById('MeuBotao'); //Pegar elemnto pelo ID MeuBotao
+    const titulo = document.getElemntById('titulo'); //Pegar elemento pelo ID titulo
+
+    botao.addEventListener('click', function(){
+       titulo.style.color = 'blue';
+       titulo.textContent = "Texto alterado!"; 
+    });
+</script>
+
+</body>
+</html>
