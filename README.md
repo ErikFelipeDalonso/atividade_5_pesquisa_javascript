@@ -33,11 +33,11 @@ A melhor prática é usar arquivos externos (<script src="script.js"></script>) 
 ## internos
 Também pode ser interno (dentro de tags <script> na pagina) ou inline (eventos como onclick). 
 
-=============================================================================================================================================================================
+
 
 Verifique o exemplo na pasta 02_script_no_html
 
-=============================================================================================================================================================================
+
 
 # 03_variáveis_tipos_e_escopo
 
@@ -65,11 +65,9 @@ Fora da função, não podem ser acessadas.
 Criado dentro de estruturas como {}, if, for, while.
 Apenas let e const respeitam esse escopo.
 
-=============================================================================================================================================================================
 
 Verifique o exemplo na pasta 03_variáveis_tipos_e_escopo
 
-=============================================================================================================================================================================
 
 # 04_operadores_comparações_e_lógica
 
@@ -102,11 +100,9 @@ Aqui é usado ===, que compara valor e tipo. O número 5 não é igual à string
 O operador != verifica se os valores são diferentes. Como o número 5 e a string "5" têm o mesmo valor, o resultado é falso.
 O operador !== verifica se valores ou tipos são diferentes. O valor é igual, mas o tipo é diferente (número vs string), então retorna verdadeiro.
 
-=============================================================================================================================================================================
 
 Verifique o exemplo na pasta 04_operadores_comparacoes_e_logica
 
-=============================================================================================================================================================================
 
 # 05_estruturas_condicionais
 
@@ -119,11 +115,9 @@ Se a condição do if for falsa, o else executa outro bloco de código.
 ## switch
 Testa vários valores possíveis de uma variável ou expressão, executando o bloco correspondente ao caso encontrado.
 
-=============================================================================================================================================================================
 
 Verifique o exemplo na pasta 05_estruturas_condicionais
 
-=============================================================================================================================================================================
 
 # 06_estruturas_de_repeticao
 
@@ -135,11 +129,9 @@ O for e o while são estruturas de repetição.
 Executa repetições enquanto uma condição for verdadeira, sem a necessidade de saber quantas vezes isso ocorrerá no início.
 O while é mais adaptável quando sabemos que queremos prosseguir "até que algo ocorra"
 
-=============================================================================================================================================================================
 
 Verifique o exemplo na pasta 06_estruturas_de_repeticao
 
-=============================================================================================================================================================================
 
 # 07_funcoes
 Função é um bloco de código reutilizável.
@@ -152,11 +144,9 @@ Recebe dados.
 ## Função com retorno
 Retorna um valor.
 
-=============================================================================================================================================================================
 
 Verifique o exemplo na pasta 07_funcoes
 
-=============================================================================================================================================================================
 
 
 # 08_manipulacao_de_pagina_com_java
@@ -188,11 +178,9 @@ Adiciona, remove ou alterna classes CSS em um elemento.
 ## addEventListener()
 Associa um evento (como clique, digitação, etc.) a um elemento, executando uma função quando o evento ocorre.
 
-=============================================================================================================================================================================
 
 Verifique o exemplo na pasta 08_manipulacao_de_pagina_com_java
 
-=============================================================================================================================================================================
 
 # referencias
 
